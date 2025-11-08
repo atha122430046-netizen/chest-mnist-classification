@@ -39,7 +39,7 @@ Opsi A — venv (ringan dan standar):
 Opsi B — Miniconda/Conda (mudah ganti versi Python):
 ```bash
 conda create -n chestmnist python=3.10 -y
-conda activate chestmnist
+ conda activate chestmnist
 pip install -r requirements.txt
 ```
 
